@@ -1,0 +1,29 @@
+dist: bionic
+language: python
+python:
+  - "3.6"
+
+before_install:
+  - ./install.sh
+  - export PATH=$PATH:$PWD/
+  - xsv --version
+  - osm_transit_extractor --version
+  # install gdal
+  - sudo add-apt-repository --yes ppa:ubuntugis/ppa
+  - sudo apt-get --quiet update
+  - sudo apt-get install --yes libgdal-dev gdal-bin
+  - ogr2ogr --version
+
+script:
+  - ./extract_lines.sh
+  #fail if less than 2 lines
+  - test `cat output/lines.csv | xsv count` -ge 1
+
+deploy:
+  provider: pages
+  skip-cleanup: true
+  github-token: $GITHUB_DEPLOY_TOKEN
+  local_dir: output
+  keep-history: true
+  on:
+    branch: master
