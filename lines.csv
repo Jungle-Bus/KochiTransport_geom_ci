@@ -1,2 +1,3 @@
 line_id,name,code,colour,operator,network,mode,frequency,opening_hours,frequency_exceptions
+Line:relation:7834960,Kochi Metro Phase I,I,#7FFFD4,KMRL,Kochi Metro,subway,,,
 Line:relation:10512380,Fort Kochi bus route,,,Private Red Bus,,bus,,,
