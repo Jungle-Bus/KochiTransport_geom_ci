@@ -3,8 +3,8 @@
 set -ev
 
 # install osm-transit-extractor
-wget https://github.com/CanalTP/osm-transit-extractor/releases/download/v0.2.2/osm_transit_extractor_v0.2.2-x86_64-linux.zip
-unzip osm_transit_extractor_v0.2.2-x86_64-linux.zip
+wget https://github.com/CanalTP/osm-transit-extractor/releases/download/v0.2.3/osm_transit_extractor_v0.2.3-x86_64-linux.zip
+unzip osm_transit_extractor_v0.2.3-x86_64-linux.zip
 chmod +x osm_transit_extractor
 
 # install xsv

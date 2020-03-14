@@ -8,7 +8,7 @@ osm_transit_extractor -i data.osm.pbf
 
 mkdir output
 
-cat osm-transit-extractor_lines.csv |xsv search -s mode 'ferry|bus' |xsv search -s shape '^$' -v > lines_with_shapes.csv
+cat osm-transit-extractor_lines.csv |xsv search -s mode 'ferry|bus|subway' |xsv search -s shape '^$' -v > lines_with_shapes.csv
 ogr2ogr output/lines.geojson -dialect sqlite -sql "SELECT *, GeomFromText(shape) FROM lines_with_shapes" lines_with_shapes.csv -a_srs "WGS84"
 
 cat lines_with_shapes.csv |xsv select '!shape' > output/lines.csv
