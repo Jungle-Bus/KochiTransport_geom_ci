@@ -1,3 +1,7 @@
 line_id,name,code,colour,operator,network,mode,frequency,opening_hours,frequency_exceptions
 Line:relation:7834960,Kochi Metro Phase I,I,#7FFFD4,KMRL,Kochi Metro,subway,,,
 Line:relation:10512380,Fort Kochi bus route,,,Private Red Bus,,bus,,,
+Line:relation:10831465,Fort Kochi - Vypin Ro Ro,,,,,ferry,,,
+Line:relation:10831516,Nedungad <=> Ernakulam,,,,,bus,,,
+Line:relation:10831517,Ernakulam <=> Manjanakkad,,,,,bus,01:00,,
+Line:relation:10831518,N Paravur <=> Ernakulam,,,,,bus,,,
