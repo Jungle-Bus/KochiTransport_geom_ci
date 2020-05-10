@@ -1,7 +1,7 @@
 stop_point_id,lat,lon,name,stop_point_type
 StopPoint:node:283405002,9.968611,76.2450662,Fort Kochi Junkar Jetty,StopPosition
 StopPoint:node:343716182,10.1030076,76.35576019999999,Thrikkunnathu Seminary,Platform
-StopPoint:node:622522403,9.9531189,76.38995369999999,Sasthammugal,Unknown
+StopPoint:node:622522403,9.9531189,76.38995369999999,Sasthammugal,Platform
 StopPoint:node:622536423,9.9390109,76.41855749999999,Kuppethazham,Unknown
 StopPoint:node:622536426,9.933668899999999,76.42331039999999,Thiruvaniyoor Kochangadi,Unknown
 StopPoint:node:622536442,9.9436977,76.4012304,Tondanpara,Unknown
@@ -26,10 +26,8 @@ StopPoint:node:2101122702,9.9016755,76.3931108,"Mulanthuruthy, Karavatte Kurish"
 StopPoint:node:2101122705,9.9137798,76.4120149,Thuppampady,Unknown
 StopPoint:node:2101136078,9.920638799999999,76.4086246,Thalacode,Unknown
 StopPoint:node:2101143428,9.9145566,76.4215018,Vettikkal,Unknown
-StopPoint:node:2115941772,10.044870699999999,76.31732269999999,Kalamassery Municipality,Unknown
-StopPoint:node:2115941782,10.0446182,76.3177798,Kalamassery Municipality,Unknown
 StopPoint:node:2305959080,10.2024999,76.4134492,Canal Stop Kidangoor,StopPosition
-StopPoint:node:2376855121,9.9517396,76.3583973,Karingachira,Unknown
+StopPoint:node:2376855121,9.9517396,76.3583973,Karingachira,Platform
 StopPoint:node:2376866788,9.9469449,76.3533443,Railway Station,Unknown
 StopPoint:node:2391343016,9.952093,76.25364139999999,Koovapadam Bus stop,Unknown
 StopPoint:node:2391343017,9.952029,76.25236009999999,Cochin College Bus stop,Unknown
@@ -39,6 +37,7 @@ StopPoint:node:2391343020,9.9577841,76.25795959999999,Aanavathil Bus stop,Unknow
 StopPoint:node:2391343021,9.9557512,76.2579174,,Unknown
 StopPoint:node:2391343022,9.9593644,76.258061,Star junction bus stop,Unknown
 StopPoint:node:2391343057,9.9494846,76.2557001,Panayappally bus stop,Unknown
+StopPoint:node:2449090672,10.1749423,76.35292129999999,Anappara Bus Stop,Platform
 StopPoint:node:2580734253,10.0054992,76.3128382,PipeLine Junction,Unknown
 StopPoint:node:2580734650,9.9989727,76.3137629,EMC Bus Stop,Unknown
 StopPoint:node:2580734682,9.999015,76.3140901,EMC Bus Stop,Unknown
@@ -46,7 +45,7 @@ StopPoint:node:2635014700,9.9310677,76.2675028,Bus to Alleppey,Unknown
 StopPoint:node:2712142797,9.9783505,76.276848,Menaka,Platform
 StopPoint:node:2712147178,9.9681464,76.2880627,Ernakulam South,Platform
 StopPoint:node:2744190416,10.0189218,76.2748891,Vaduthala Valavu,Platform
-StopPoint:node:2744199202,10.0137726,76.276929,Don Bosco,Platform
+StopPoint:node:2744199202,10.0137755,76.276927,Don Bosco,Platform
 StopPoint:node:2744199206,10.013149499999999,76.2767624,Vaduthala Gate,Platform
 StopPoint:node:2744199210,10.006632999999999,76.2782682,Lourde's Hospital,Unknown
 StopPoint:node:2744199215,10.0067048,76.27843399999999,Lourde's Hospital,Unknown
@@ -78,7 +77,8 @@ StopPoint:node:3676223741,10.148579999999999,76.2283668,old bus stop,Platform
 StopPoint:node:3676241133,10.1264475,76.3209838,mariyapadi,Unknown
 StopPoint:node:3676244636,10.136827,76.2696768,Manakkapadi,Unknown
 StopPoint:node:3676244647,10.1485409,76.2278556,namboodrichanda aal,Platform
-StopPoint:node:3676397041,10.1492662,76.2355712,Chendamangalam Junction,Unknown
+StopPoint:node:3676397041,10.1492662,76.2355712,Chendamangalam Junction,Platform
+StopPoint:node:3687421346,10.1957156,76.2915147,kalyad Bus stop,Platform
 StopPoint:node:3711605443,10.1488639,76.23051219999999,Civil Station,Platform
 StopPoint:node:3711605445,10.1487713,76.229096,Old Bus Stand,Unknown
 StopPoint:node:3736262611,9.9706411,76.31795009999999,Vyttila Bus Stop,Unknown
@@ -96,19 +96,19 @@ StopPoint:node:3886536252,9.9833176,76.274318,High Court Junction,Platform
 StopPoint:node:3996656188,9.950291799999999,76.2921288,Thevara Junction,Unknown
 StopPoint:node:3996661158,9.9591775,76.28900829999999,Ravipuram,Unknown
 StopPoint:node:4021153223,10.110229799999999,76.3493897,Aluva,StopPosition
+StopPoint:node:4102699490,9.9689597,76.4226673,പുത്തൻകുരിശ്,Platform
 StopPoint:node:4102699591,9.9793518,76.4762765,"Medical Mission, കോലഞ്ചേരി",Platform
-StopPoint:node:4102711889,9.9552333,76.3960251,Panikkarupadi,Unknown
+StopPoint:node:4102711889,9.955191,76.3962075,Panikkarupadi,Platform
 StopPoint:node:4118630290,10.1684934,76.3402155,poikkattussery bus stop,Unknown
 StopPoint:node:4118630691,10.175242599999999,76.3304103,hospital,Unknown
 StopPoint:node:4118630889,10.178728099999999,76.3302319,kurumassery,Unknown
 StopPoint:node:4122530889,10.188161599999999,76.328169,moozhikulam bus stop,Unknown
-StopPoint:node:4122531089,10.1899528,76.3236028,parakkadavu bus stop,Unknown
 StopPoint:node:4270131792,10.1308404,76.3902997,"Thettaly Bus Stop , Chowara",Unknown
 StopPoint:node:4270140391,10.1319073,76.39943869999999,"Kaipra bus Stop , Sreemoolanagaram",Unknown
 StopPoint:node:4279628189,10.1903408,76.4764861,"Plappilly Kavala Bus Stop, Neeleeswaram Mundangamattom Road",Unknown
 StopPoint:node:4290205591,10.1222049,76.3667615,Gandhipuram Bus Stop,Unknown
 StopPoint:node:4290219991,10.1857337,76.39740739999999,Nayathode Bus Stop,Unknown
-StopPoint:node:4291964894,10.081181599999999,76.34819739999999,Kunnatheri Junction,Unknown
+StopPoint:node:4291964894,10.0811722,76.3482038,Kunnatheri Junction,Unknown
 StopPoint:node:4291964895,10.1282269,76.372571,Kondotty Bus Stop,Unknown
 StopPoint:node:4292013891,10.1278731,76.3693424,Purayar Bus Stop,Unknown
 StopPoint:node:4292039789,10.0090933,76.31688799999999,"Chembumukku Bus Stop , Kakkanad",Unknown
@@ -120,7 +120,7 @@ StopPoint:node:4351633726,10.177061499999999,76.309303,Oozhan Kavala,Unknown
 StopPoint:node:4354393904,10.1780796,76.2109011,Andipillikavu,Unknown
 StopPoint:node:4354393905,10.1787139,76.2086774,Madaplathuruth,Unknown
 StopPoint:node:4361725219,10.016383,76.3023875,Edappally High School,Unknown
-StopPoint:node:4419870996,10.1185586,76.3433527,Paravoor Kavala,Unknown
+StopPoint:node:4419870996,10.1185586,76.3433527,പറവൂര്‍ കവല,Platform
 StopPoint:node:4434143093,10.1534744,76.3400046,Chengamanad,Unknown
 StopPoint:node:4434161789,10.1668326,76.461265,Onampilly,Unknown
 StopPoint:node:4434161890,10.1534736,76.3404527,Chegamanad,Unknown
@@ -128,14 +128,13 @@ StopPoint:node:4434161990,10.1535484,76.340413,,Unknown
 StopPoint:node:4434162289,10.1559262,76.330283,Palapprassery,Unknown
 StopPoint:node:4437337990,10.156779,76.3263336,Chunkam Bus Stop,Unknown
 StopPoint:node:4471324994,10.0228068,76.34114149999999,Mavelipuram Junction Bus Stop,Unknown
-StopPoint:node:4471324995,10.022925599999999,76.3414634,Mavelipuram Junction Bus Stop,Unknown
+StopPoint:node:4471324995,10.0230524,76.3411764,Mavelipuram Junction Bus Stop,Unknown
 StopPoint:node:4473580196,9.9073744,76.36663999999999,"Valiyakulam, Udayamperoor",Unknown
 StopPoint:node:4548818893,10.0550777,76.3227052,HMT Junction,Unknown
 StopPoint:node:4548830490,10.054534799999999,76.32199659999999,HMT Junction,Unknown
 StopPoint:node:4561240974,9.9717986,76.2822067,General hospital,Platform
 StopPoint:node:4639553292,9.960856399999999,76.2428762,Chirattapalam,Platform
 StopPoint:node:4639553293,9.9633006,76.2431368,,Unknown
-StopPoint:node:4641790492,10.0215163,76.3063792,,Unknown
 StopPoint:node:4648279091,9.96682,76.31931689999999,,Unknown
 StopPoint:node:4660701152,10.1890702,76.2015464,Moothakunnam,Unknown
 StopPoint:node:4665138938,10.1452796,76.2267225,KMK Jn to Aluva,Platform
@@ -155,7 +154,7 @@ StopPoint:node:4716589462,10.155043599999999,76.29524479999999,Kunnukara,Unknown
 StopPoint:node:4716589463,10.1538401,76.2735362,Thelathuruth,Unknown
 StopPoint:node:4716591373,10.154947499999999,76.27995969999999,,Unknown
 StopPoint:node:4716858150,10.1499588,76.2171031,Kottakavu Palli,Unknown
-StopPoint:node:4716858152,10.1561769,76.3112166,Kuttiyal,Unknown
+StopPoint:node:4716858152,10.1561769,76.3112166,Kuttiyal,Platform
 StopPoint:node:4729063042,10.1972875,76.20095289999999,V.P. Thuruth,Unknown
 StopPoint:node:4729063046,10.121188799999999,76.19912149999999,Janatha,Platform
 StopPoint:node:4729063048,10.0827527,76.2096157,edavanakad palli,Platform
@@ -182,7 +181,7 @@ StopPoint:node:4731125621,10.1868815,76.20305359999999,Kuriyapilly,Unknown
 StopPoint:node:4731125622,10.150127699999999,76.2631801,,Unknown
 StopPoint:node:4731125821,10.1876295,76.2077975,,Unknown
 StopPoint:node:4731126041,10.1495123,76.2546397,,Unknown
-StopPoint:node:4731126042,10.149103,76.2325396,,Platform
+StopPoint:node:4731126042,10.149103,76.2325396,Private Bustand,Platform
 StopPoint:node:4731126321,10.1499016,76.2669439,,Unknown
 StopPoint:node:4733928387,10.0584683,76.2905773,Manjumel kavala,Unknown
 StopPoint:node:4735966321,9.967338,76.28616219999999,Jose Jn,Platform
@@ -208,12 +207,12 @@ StopPoint:node:4759260783,9.794411499999999,76.3025519,,Unknown
 StopPoint:node:4759826121,9.9317884,76.26659529999999,Bus stop to Fort Cochin,Unknown
 StopPoint:node:4769428928,10.0250304,76.3073744,Edapally,Unknown
 StopPoint:node:4769428932,10.0435236,76.2987272,Kunnumpiram,Unknown
-StopPoint:node:4769436232,9.9503367,76.3322968,,Unknown
+StopPoint:node:4769436232,9.9501589,76.33206679999999,,Platform
 StopPoint:node:4769436233,9.954614099999999,76.32764519999999,Champakkara,Unknown
 StopPoint:node:4769436235,9.969521,76.3179692,Vytilla Junction,Platform
 StopPoint:node:4792523922,9.8234281,76.31110029999999,Eramalloor,Unknown
-StopPoint:node:4792523923,9.8352319,76.30935649999999,Kochveli junction,Unknown
-StopPoint:node:4792525423,9.796067599999999,76.3159137,Kuthiyathood,Unknown
+StopPoint:node:4792523923,9.8347087,76.3093887,Kochveli junction,Unknown
+StopPoint:node:4792525423,9.7962724,76.3158703,Kuthiyathodu,Unknown
 StopPoint:node:4792525427,9.703495499999999,76.3564987,Chenganda,Unknown
 StopPoint:node:4792530422,9.8781502,76.30381679999999,Aroor Bypass,Unknown
 StopPoint:node:4802320604,10.1757841,76.2276799,,Unknown
@@ -230,7 +229,7 @@ StopPoint:node:5240459124,9.9393569,76.2962826,,Unknown
 StopPoint:node:5261851010,10.1571058,76.3551756,,Unknown
 StopPoint:node:5261851012,10.157984599999999,76.39218679999999,,Unknown
 StopPoint:node:5295234430,9.9629303,76.28814,Pallimuku,Unknown
-StopPoint:node:5377832022,9.9519708,76.3610771,Hill Palace Junction,Unknown
+StopPoint:node:5377832022,9.9519708,76.3610771,Hill Palace Junction,Platform
 StopPoint:node:5377841321,9.9532618,76.3406358,,Unknown
 StopPoint:node:5379782848,9.965929899999999,76.2952354,Manorama,Platform
 StopPoint:node:5423779221,10.0280642,76.3099131,Edappally Toll Kallada Bus,Unknown
@@ -253,7 +252,6 @@ StopPoint:node:5757830238,10.051547,76.449124,Chelakkulam Bus Stop,Unknown
 StopPoint:node:5757830239,10.053965999999999,76.45285799999999,Jai Bharath College Bus Stop,Unknown
 StopPoint:node:5757830240,10.043486,76.448447,Kummanod Bhandarakkavala Bus Stop,Unknown
 StopPoint:node:5757830241,10.030714,76.44874899999999,Double Paalam Bus Stop,Unknown
-StopPoint:node:5757830242,10.025336,76.449691,Pattimattom,Unknown
 StopPoint:node:5757830243,10.038879999999999,76.450163,Kummanod Bus Stop,Unknown
 StopPoint:node:5757830244,10.001394999999999,76.458254,Kadayirippu Bus Stop,Unknown
 StopPoint:node:5757830245,10.016261,76.45491899999999,Valathupady Bus Stop,Unknown
@@ -264,13 +262,12 @@ StopPoint:node:5757830249,10.053289999999999,76.43148599999999,West Chelakkulam 
 StopPoint:node:5757830250,10.051895,76.42908299999999,Vilangu Bus Stop,Unknown
 StopPoint:node:5757830251,10.021047,76.428534,Millumpadi Bus Stop,Unknown
 StopPoint:node:5757830252,10.0358702,76.4231032,Njaralloor Bus Stop,Unknown
-StopPoint:node:5757830253,10.033745999999999,76.43009099999999,Njaralloor Bus Stop,Unknown
+StopPoint:node:5757830253,10.0338015,76.4300655,Njaralloor Bus Stop,Unknown
 StopPoint:node:5757830254,10.018131,76.426819,Ambalathazham Bus Stop,Unknown
 StopPoint:node:5757830255,10.005044999999999,76.44003599999999,Pancode Bus Stop,Unknown
 StopPoint:node:5757830256,10.007427999999999,76.441861,Pulinchode Bus Stop,Unknown
 StopPoint:node:5757830257,9.999386999999999,76.440958,Iruppachira,Unknown
 StopPoint:node:5757830258,9.982756,76.442353,Ashramam Bus Stop,Unknown
-StopPoint:node:5757830259,9.989181,76.441065,Pancode Bus Stop,Unknown
 StopPoint:node:5757830260,10.060018999999999,76.41962,Muri Vilangu Bus Stop,Unknown
 StopPoint:node:5757830261,10.056808,76.41066099999999,Chemmalappady Bus Stop,Unknown
 StopPoint:node:5757830263,10.036567,76.41628299999999,Molekkurish Bus Stop,Unknown
@@ -286,7 +283,7 @@ StopPoint:node:5757830272,9.990449,76.420788,Kollappady Bus Stop,Unknown
 StopPoint:node:5757830273,9.991907,76.40554399999999,Colony Bus Stop,Unknown
 StopPoint:node:5757830274,9.96585,76.412663,Bible College Jn Bus Stop,Unknown
 StopPoint:node:5757830275,9.973352,76.417762,Pannikuzhy Bus Stop,Unknown
-StopPoint:node:5757830276,9.963609,76.407106,Varikoli Bus Stop,Unknown
+StopPoint:node:5757830276,9.963609,76.407106,Varikoli Bus Stop,Platform
 StopPoint:node:5757830277,10.059535799999999,76.3953878,Pukkattupady Bus Stop,Unknown
 StopPoint:node:5757830278,10.028338999999999,76.393309,Wonderla,Unknown
 StopPoint:node:5757830279,10.029427,76.385605,Manakkakadavu Bus Stop,Unknown
@@ -321,7 +318,7 @@ StopPoint:node:5757830308,10.012914,76.341698,Kakkanad Bus Stop,Unknown
 StopPoint:node:5757830309,10.017111,76.34480099999999,Kakkanad,Unknown
 StopPoint:node:5757830310,10.00635,76.34499,CSEZ Bus Stop,Unknown
 StopPoint:node:5757830311,10.015479,76.35446999999999,Kuzhikattumoola Bus Stop,Unknown
-StopPoint:node:5757830312,10.001605999999999,76.349657,Chittethukara Bus Stop,Unknown
+StopPoint:node:5757830312,10.0009641,76.3499252,Chittethukara Bus Stop,Unknown
 StopPoint:node:5757830313,10.003941,76.34678199999999,Adarsha Junction Bus Stop,Unknown
 StopPoint:node:5757830314,10.000212,76.33416,Palachuvadu Junction Bus Stop,Unknown
 StopPoint:node:5757830315,9.998531999999999,76.350794,Chittethukara Bus Stand,Unknown
@@ -329,18 +326,18 @@ StopPoint:node:5757830316,9.995506899999999,76.3515159,Rajagiri Bus Stop,Unknown
 StopPoint:node:5757830317,9.982693,76.352437,Indian Oil Bus Stop- Irumpanam,Unknown
 StopPoint:node:5757830318,9.977198,76.354204,Vettikkavu Bus Stop,Unknown
 StopPoint:node:5757830319,9.979602,76.353172,BPCL Bus Stop,Unknown
-StopPoint:node:5757830320,9.985318999999999,76.35211799999999,Thrikathra Bus Stop,Unknown
+StopPoint:node:5757830320,9.985009999999999,76.3521878,Thrikathra Bus Stop,Unknown
 StopPoint:node:5757830521,9.97303,76.33652099999999,Mathoor Junction Bus Stop,Unknown
 StopPoint:node:5757830522,9.953999,76.34291499999999,Alliance Junction Bus Stop?,Unknown
 StopPoint:node:5757830523,9.957540999999999,76.34342,Azad Maidan,Unknown
 StopPoint:node:5757830524,9.974985,76.354534,Kadathu Kadavu Bus Stop,Unknown
-StopPoint:node:5757830525,9.965468999999999,76.34018499999999,Puthiya Road Bus Stop?,Unknown
+StopPoint:node:5757830525,9.9655656,76.34025969999999,Puthiya Road Bus Stop?,Unknown
 StopPoint:node:5757830526,9.970749999999999,76.337672,Illikkappady Bus Stop,Unknown
 StopPoint:node:5757830527,9.962526,76.34139499999999,Pottayil Bus Stop?,Unknown
 StopPoint:node:5757830528,10.047118,76.318443,University Junction Bus Stop,Unknown
 StopPoint:node:5757830529,10.053882,76.328147,Govt ITI Bus Stop,Unknown
 StopPoint:node:5757830531,10.044267999999999,76.324638,CUSAT Main Office Bus Stop,Unknown
-StopPoint:node:5757830532,10.060442,76.32252,Premier Ground Bus Stop?,Unknown
+StopPoint:node:5757830532,10.0612327,76.32199299999999,Premier Ground Bus Stop?,Unknown
 StopPoint:node:5757830533,10.05212,76.319462,South Kalamassery Junction Bus Stop,Unknown
 StopPoint:node:5757830534,10.048895,76.318985,CUSAT Bus Stop,Unknown
 StopPoint:node:5757830535,10.038159,76.31537999999999,Pathadipalam Bus Stop,Platform
@@ -370,6 +367,7 @@ StopPoint:node:5757830558,9.963229,76.319073,Powerhouse Bus Stop?,Unknown
 StopPoint:node:5757830559,9.9590549,76.325002,Thykoodam Bus Stop,Unknown
 StopPoint:node:5757830560,9.960989,76.321865,OEN Bus Stop?,Unknown
 StopPoint:node:5757830561,9.969313,76.321632,Vytilla Hub,Unknown
+StopPoint:node:5840909716,10.1913939,76.29214429999999,kulatheri bus stop,Platform
 StopPoint:node:5857168775,9.8958766,76.29429309999999,Kumbalangy Ferry Jetty,Platform
 StopPoint:node:5865718306,9.685328199999999,76.3023475,Thaikkal Bus Stop,Platform
 StopPoint:node:5958357616,10.1262344,76.3159081,Palakkal,Unknown
@@ -377,6 +375,9 @@ StopPoint:node:5958358407,10.128449999999999,76.3053438,Tvs malikampeedika,Unkno
 StopPoint:node:5958358585,10.1292105,76.3001961,Kottapuram,Unknown
 StopPoint:node:5958358593,10.127585999999999,76.3092784,Malikampeedika,Unknown
 StopPoint:node:5958359385,10.126489099999999,76.3251408,Valyappanpadi,Unknown
+StopPoint:node:5970913436,10.188657,76.29114489999999,Mythra Bus Stop,Platform
+StopPoint:node:5970913998,10.1855832,76.3212422,,Platform
+StopPoint:node:5975126689,10.108561199999999,76.4583233,Pallipadi bus stop,Platform
 StopPoint:node:6031832091,10.0727485,76.3336795,Muttom,StopPosition
 StopPoint:node:6031832102,10.079233,76.33885719999999,Ambattukavu,StopPosition
 StopPoint:node:6031832109,10.087279599999999,76.34278549999999,Companypady,StopPosition
@@ -405,10 +406,11 @@ StopPoint:node:6043556589,10.065370999999999,76.3899586,Kunjattukara,Platform
 StopPoint:node:6055048486,10.153503899999999,76.37349999999999,,Unknown
 StopPoint:node:6057196627,10.0651526,76.3898808,Kunjattukara Bus stop,StopPosition
 StopPoint:node:6072274720,10.1151045,76.32970279999999,East Kadungalloor Bus Stop,StopPosition
+StopPoint:node:6172467541,10.201655899999999,76.2931995,Kuzhur PALLI stop,Platform
 StopPoint:node:6184164257,10.183152,76.22493089999999,Kurumbathuruth Kadav,Unknown
-StopPoint:node:6199097354,10.0870225,76.3035314,Edayar,Unknown
-StopPoint:node:6199097355,10.1017763,76.3012722,,Unknown
-StopPoint:node:6199119515,10.0777833,76.3184612,Esi,Unknown
+StopPoint:node:6199097354,10.0875047,76.3030481,Edayar,Platform
+StopPoint:node:6199097355,10.101979499999999,76.3013699,പനായികുളം,Platform
+StopPoint:node:6199119515,10.0778898,76.3184441,"ESI, പാതാളം",Platform
 StopPoint:node:6236677902,10.074401499999999,76.3074567,,Unknown
 StopPoint:node:6242749071,9.9834461,76.2823511,M. G. Road,StopPosition
 StopPoint:node:6242749072,9.9911453,76.28804749999999,Lissie,StopPosition
@@ -425,7 +427,7 @@ StopPoint:node:6242749082,10.087301,76.3427351,Companypady,StopPosition
 StopPoint:node:6300587285,9.939568399999999,76.25563269999999,,Unknown
 StopPoint:node:6300587286,9.945148,76.2559735,,Unknown
 StopPoint:node:6300587287,9.945899599999999,76.2451978,To fort kochi,Unknown
-StopPoint:node:6300587288,10.0299901,76.3109525,Bus to airport,Unknown
+StopPoint:node:6300587288,10.0299901,76.3109525,Bus to north,Platform
 StopPoint:node:6300587385,9.9414263,76.2558871,,Unknown
 StopPoint:node:6300587386,9.9459152,76.2496512,To fort kochi,Unknown
 StopPoint:node:6300587387,9.9458868,76.2473239,To fort kochi,Unknown
@@ -440,6 +442,7 @@ StopPoint:node:6300587395,9.989499799999999,76.3154984,,Unknown
 StopPoint:node:6300587485,9.9516504,76.24459949999999,To fort kochi,Platform
 StopPoint:node:6300587486,10.0236903,76.30848519999999,Bus to airport,Unknown
 StopPoint:node:6300587585,9.9493875,76.31822729999999,Bus to airport,Unknown
+StopPoint:node:6491115864,9.9127338,76.4083054,MYTHIRI BUS STOP,Platform
 StopPoint:node:6579556388,10.0424358,76.3541091,Kangarappady Bus Stop,Platform
 StopPoint:node:6579556389,10.0428743,76.3546884,Kangarappady Bus Stop,Platform
 StopPoint:node:6604465433,9.913362099999999,76.2828956,Pashnithodu,Platform
@@ -492,14 +495,14 @@ StopPoint:node:7019500474,10.104365399999999,76.2038093,Kuzhuppilly,Platform
 StopPoint:node:7019500475,10.104374499999999,76.2038924,Kuzhuppilly,Platform
 StopPoint:node:7019540813,10.1098273,76.2026683,Pallathamkulangara,Platform
 StopPoint:node:7019540815,10.1134364,76.20175069999999,Cheruvaippu Junction,Platform
-StopPoint:node:7019570854,10.0250224,76.2239125,Perumalppadi,Platform
+StopPoint:node:7019570854,10.024013499999999,76.22408759999999,Perumalppadi,Platform
 StopPoint:node:7019570855,10.030563299999999,76.2219472,Elamkunnapuzha,Platform
 StopPoint:node:7019570856,10.030734299999999,76.2219897,Elamkunnapuzha,Platform
 StopPoint:node:7019570857,10.035649099999999,76.2205424,Perumpilly,Platform
 StopPoint:node:7019570858,10.0361177,76.2202792,Perumpilly,Platform
 StopPoint:node:7019570862,10.0409724,76.2190011,hospital Jn,Platform
 StopPoint:node:7019570863,10.0419123,76.2187302,hospital Jn,Platform
-StopPoint:node:7019570864,10.0469621,76.2173481,Njarackal,Platform
+StopPoint:node:7019570864,10.0467028,76.21745469999999,Njarackal,Platform
 StopPoint:node:7019570866,10.048835,76.21686319999999,Mampilly,Platform
 StopPoint:node:7019570867,10.0488549,76.21693619999999,Mampilly,Platform
 StopPoint:node:7019570868,10.052781099999999,76.2153857,Maanattu Parambu,Platform
@@ -557,6 +560,7 @@ StopPoint:node:7084389851,10.140952799999999,76.203369,,Platform
 StopPoint:node:7084389852,10.140889999999999,76.2034965,,Platform
 StopPoint:node:7086058489,9.987103,76.2536975,,Platform
 StopPoint:node:7086058490,9.9868419,76.2535664,,Platform
+StopPoint:node:7097576956,9.9329734,76.3830041,ambadimala bus stop,Platform
 StopPoint:node:7097918159,9.9818807,76.24106909999999,Kaalamukku,Platform
 StopPoint:node:7097918160,9.977927099999999,76.24105569999999,,Platform
 StopPoint:node:7097918161,9.977850199999999,76.2409918,,Platform
@@ -617,7 +621,7 @@ StopPoint:node:7131595937,9.966629,76.29870009999999,Kadavanthra,Platform
 StopPoint:node:7131595938,9.965505799999999,76.29429429999999,Panampilly Nagar,Platform
 StopPoint:node:7131609339,9.9638534,76.2860633,,Platform
 StopPoint:node:7131609340,9.9676381,76.28087359999999,,Platform
-StopPoint:node:7133380913,10.083691,76.3139211,പറവൂര്‍ എടയാര്‍ Bus Stop,Platform
+StopPoint:node:7133380913,10.0836579,76.31393179999999,പറവൂര്‍ എടയാര്‍ Bus Stop,Platform
 StopPoint:node:7151947331,10.1415319,76.2366632,Peruvaaram,Platform
 StopPoint:node:7151947332,10.1413756,76.2368699,Peruvaaram,Platform
 StopPoint:node:7151965119,10.1230692,76.2452267,Cheriyappilly,Platform
@@ -656,7 +660,6 @@ StopPoint:node:7318711520,9.8316229,76.4689851,Newsprint Nagar Bus stop,Platform
 StopPoint:node:7318711521,9.827164999999999,76.47638289999999,Police Station,Platform
 StopPoint:node:7318711522,9.8270281,76.4783616,Karikode,Platform
 StopPoint:node:7331575715,9.9521113,76.3405051,,Platform
-StopPoint:node:7335071392,10.0525532,76.3202701,,Platform
 StopPoint:node:7368704028,10.1672975,76.2129594,Chakamarassery Bus Stop,Unknown
 StopPoint:node:7376093217,9.7436537,76.3631418,ENGINEERING COLLEGE,Platform
 StopPoint:node:7376093227,9.7391291,76.3626723,OTTAPUNNA BUS STOP,Platform
@@ -664,12 +667,98 @@ StopPoint:node:7376093228,9.7388885,76.3627233,OTTAPPUNNA BUS STOP,Platform
 StopPoint:node:7379117435,9.7472701,76.36339869999999,VELLIMUTTOM,Platform
 StopPoint:node:7379117470,9.7067211,76.35715739999999,chebgada pala stop,Platform
 StopPoint:node:7385356083,10.0928728,76.2663741,തിരുമുപ്പം ബസ് സ്റ്റോപ്പ്‌,Platform
+StopPoint:node:7413964049,10.1138993,76.34604709999999,തോട്ടക്കാട്ടുകര,Platform
+StopPoint:node:7448218411,10.0245079,76.44969979999999,perumbavoor- kolenchery road,Unknown
+StopPoint:node:7452736590,10.0246435,76.4501433,bus stop to muvattupuzha,Unknown
+StopPoint:node:7452971120,10.0210438,76.44812809999999,bus stop,Unknown
+StopPoint:node:7453750027,10.0362621,76.4082322,kizhakkambalam,Unknown
+StopPoint:node:7456890921,10.0363379,76.4082414,bus stop to muvatupuzha and perumbavoor,Unknown
+StopPoint:node:7456890927,10.036168499999999,76.4082525,bus stop to ernakulam,Unknown
+StopPoint:node:7456890941,10.036147999999999,76.40800229999999,bus stop to aluva,Unknown
+StopPoint:node:7456890945,10.0375076,76.4108856,Kizhakkambalam Market Bus Stop,Platform
+StopPoint:node:7459381031,9.936996299999999,76.318618,bus stop to tripunithura,Platform
+StopPoint:node:7463839813,9.9675435,76.33938719999999,Pisharikovil Bus Stop,Platform
+StopPoint:node:7463909910,10.0844772,76.3476457,Darussalam Junction,Platform
+StopPoint:node:7464400088,9.9204087,76.274048,PALLURUTHY VELI BUS STOP,Platform
+StopPoint:node:7465152253,10.1274797,76.4727655,KANJIRAKKADU,Platform
+StopPoint:node:7465152254,10.1266493,76.4731436,,Platform
+StopPoint:node:7465185328,10.1156557,76.48182589999999,,Platform
+StopPoint:node:7465185329,10.1175442,76.48083489999999,,Platform
+StopPoint:node:7465185330,10.1175581,76.4804279,,Platform
+StopPoint:node:7465185348,10.1166745,76.4758781,,Platform
+StopPoint:node:7465185358,10.1141183,76.4754765,,Platform
+StopPoint:node:7465359344,10.1948008,76.3862742,,Platform
+StopPoint:node:7465374247,10.0883142,76.3432383,Companypady,Platform
+StopPoint:node:7465399689,10.0882451,76.3460805,Manthrakkal Junction,Platform
+StopPoint:node:7465695674,9.743136699999999,76.31872659999999,,Platform
+StopPoint:node:7466613954,9.946907699999999,76.353231,RAILWAY STATION BUS STOP,Platform
+StopPoint:node:7466785122,9.976805299999999,76.28527919999999,,Platform
+StopPoint:node:7466807493,9.9238602,76.35673,VALAV BUS STOP,Platform
+StopPoint:node:7466853226,9.9063352,76.36718859999999,VALIYAKULAM BUS STOP,Platform
+StopPoint:node:7467524503,10.130732199999999,76.47046,PALLIPPADY,Platform
+StopPoint:node:7467524504,10.1360232,76.46764999999999,BUS STOP,Platform
+StopPoint:node:7467524505,10.136052,76.4672018,,Platform
+StopPoint:node:7467524506,10.1357093,76.46777329999999,,Platform
+StopPoint:node:7467587514,9.7288778,76.3187686,,Platform
+StopPoint:node:7467596222,9.7291712,76.3189886,,Platform
+StopPoint:node:7467762617,10.1521062,76.4509497,,Platform
+StopPoint:node:7467857012,10.004534,76.4561866,bus stop to pattimattom,Unknown
+StopPoint:node:7467896054,10.092504199999999,76.34571059999999,Garage Bus stop,Platform
+StopPoint:node:7469319801,10.0375296,76.3385639,BMC Bus Stop,Platform
+StopPoint:node:7469340151,10.044448299999999,76.3176324,Panchayath Bus Stop,Platform
+StopPoint:node:7469340152,10.044417,76.31731479999999,Panchayath Bus Stop,Platform
+StopPoint:node:7469429705,10.0550865,76.3218308,HMT,Platform
+StopPoint:node:7469568985,9.9486669,76.34737559999999,,Platform
+StopPoint:node:7470223494,10.0253731,76.44960809999999,Bus stop to Perumbavoor,Platform
+StopPoint:node:7470264338,9.9292208,76.4183743,,Platform
+StopPoint:node:7470346828,10.1829409,76.4103822,,Platform
+StopPoint:node:7470358924,9.786827899999999,76.4400971,Carvy Thalayolaparambu,Platform
+StopPoint:node:7470386103,9.999599,76.4588266,,Unknown
+StopPoint:node:7470446272,10.0695877,76.3635091,Combara Junction,Platform
+StopPoint:node:7471960664,10.019414699999999,76.2914341,Punnackal Bus Stop,Platform
+StopPoint:node:7472717779,10.1162741,76.495824,,Platform
+StopPoint:node:7472717780,10.1161094,76.49608599999999,,Platform
+StopPoint:node:7472799221,10.033268099999999,76.32524939999999,Pipeline,Platform
+StopPoint:node:7473941856,9.7243955,76.3180907,,Platform
+StopPoint:node:7474155911,10.1674359,76.43649529999999,,Platform
+StopPoint:node:7474632252,9.9854652,76.3520344,SHAPPUM PADI,Platform
+StopPoint:node:7475542066,10.033507,76.4328867,alinchuvadu bus stop (location on road),Unknown
+StopPoint:node:7475612939,9.9652534,76.34028649999999,,Platform
+StopPoint:node:7475628632,9.8943006,76.2960332,KSRTC Bus Stop,Platform
+StopPoint:node:7475629998,9.983908399999999,76.33019639999999,kozhivettomvely,Platform
+StopPoint:node:7475635171,9.984032599999999,76.3302385,,Platform
+StopPoint:node:7475665490,9.8949094,76.2962151,Edakochi Private Bus Stand,StopPosition
+StopPoint:node:7481820390,10.196691399999999,76.25168889999999,,Platform
+StopPoint:node:7482029718,10.1422197,76.3091918,,Unknown
+StopPoint:node:7482407130,9.9855643,76.4284535,VADAVUCODE BUS STOP,Platform
+StopPoint:node:7482407516,9.9712008,76.4268586,KAVUMTHAZHAM BUS STOP,Platform
+StopPoint:node:7484554598,10.1950338,76.26731629999999,,Platform
+StopPoint:node:7485838122,10.0374354,76.4106832,Kizhakkambalam Market,Platform
+StopPoint:node:7486387302,10.189404999999999,76.3237051,parakkadavu bus stop,Unknown
+StopPoint:node:7486498537,9.923325,76.3988983,,Platform
+StopPoint:node:7489020806,10.1635952,76.4056164,DYFI waiting shed,Platform
+StopPoint:node:7489223443,10.163981699999999,76.40257969999999,nss bus stop,Platform
+StopPoint:node:7489567084,9.7531701,76.39116109999999,vaikom bus station,Unknown
+StopPoint:node:7489965846,10.039209699999999,76.4048578,Twenty 20 Nagar,Platform
+StopPoint:node:7490855556,10.1728201,76.45398089999999,"Radio Kavala,Mekalady",Platform
+StopPoint:node:7492238746,10.062036299999999,76.3953064,Wire Ropes,Platform
+StopPoint:node:7494989397,9.7366984,76.31823279999999,BUS STOP,Platform
+StopPoint:node:7496688161,10.0889147,76.3885389,Rajagiri Hospital,Platform
+StopPoint:node:7498634946,9.8520918,76.38509499999999,,Platform
+StopPoint:node:7500481958,9.9450161,76.2579155,,Platform
+StopPoint:node:7500983389,10.0226101,76.3067098,edappally church,Platform
+StopPoint:node:7500983390,10.0206912,76.3058368,edappally,Platform
 StopPoint:way:362823775,10.1505353,76.2681444,Manjaly,Unknown
 StopPoint:way:364358321,10.196023799999999,76.38673519999999,Angamaly KSRTC Bus Staion Staff and Workshop Building,Platform
 StopPoint:way:483021729,9.967632499999999,76.2918265,"Platform 4,5",Platform
 StopPoint:way:483021730,9.9676536,76.2916415,"Platform 2,3",Platform
 StopPoint:way:483021732,9.9673584,76.29150729999999,Platform 1,Platform
 StopPoint:way:486713334,10.150627799999999,76.21837649999999,St. Aloysious,Unknown
+StopPoint:way:619511552,10.113760599999999,76.46451549999999,Palakkatuthazham Private Bus Stop,Platform
 StopPoint:way:699375841,10.195961299999999,76.3860376,,Platform
 StopPoint:way:699379117,10.1960211,76.3861391,,Platform
 StopPoint:way:756930420,9.9959071,76.2853231,,Platform
+StopPoint:way:798770267,10.0531168,76.3521647,,Platform
+StopPoint:way:799179580,10.164595,76.43991849999999,,Platform
+StopPoint:way:800408912,9.979622299999999,76.4726779,,Platform
+StopPoint:way:801353542,9.9899893,76.40121959999999,,Platform
